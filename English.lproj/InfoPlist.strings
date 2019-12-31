@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "ROI";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "ROI version 1.0, Copyright (c) 2019 Chunyu.";
+NSHumanReadableCopyright = "Copyright (c) 2019 Chunyu.";
